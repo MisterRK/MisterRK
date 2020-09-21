@@ -24,7 +24,7 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 <br>
 ## 📣 Let's Connect
 
-<style type="text/css">
+<style>
    a {margin-right: 80px;}
 </style>
 
