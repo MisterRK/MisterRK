@@ -8,7 +8,7 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 <br>
 ## 🧰 Languages and Tools I Build With
 
-<table>
+<table border="none">
    <tr>
       <td><img style="margin-right: 80px"  src="assets/images/HTML5.png" alt="HTML5"></td>
       <td><img style="margin-right: 80px" src="assets/images/css.png" alt="CSS3"></td>
@@ -19,11 +19,11 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
    </table>
    <table>
       <tr>
-         <img style="margin-right: 80px" src="assets/images/redux.png" alt="Redux">
-         <img style="margin-right: 80px" src="assets/images/ruby.png" alt="Ruby">
-         <img style="margin-right: 80px" src="assets/images/rails.png" alt="Rails">
-         <img style="margin-right: 80px" src="assets/images/github.png" alt="GitHub">
-         <img style="margin-right: 80px" src="assets/images/git.png" alt="Git">
+         <td><img style="margin-right: 80px" src="assets/images/redux.png" alt="Redux"></td>
+         <td><img style="margin-right: 80px" src="assets/images/ruby.png" alt="Ruby"></td>
+         <td><img style="margin-right: 80px" src="assets/images/rails.png" alt="Rails"></td>
+         <td><img style="margin-right: 80px" src="assets/images/github.png" alt="GitHub"></td>
+         <td><img style="margin-right: 80px" src="assets/images/git.png" alt="Git"></td>
       </tr>
    <table>
 
