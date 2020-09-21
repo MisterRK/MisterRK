@@ -1,5 +1,17 @@
-### Hi there 👋
+### About Me
 
+Some information about me
+
+### Deployed Projects
+
+list projects on the web here
+
+### Stats
+
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **MisterRK/MisterRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
