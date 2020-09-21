@@ -28,9 +28,15 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
    a {margin-right: 80px;}
 </style>
 
-<a href="https://www.linkedin.com/in/robert-keller-dev/"><img src="assets/images/linkedin.jpg" alt="LinkedIn Icon"></a><br>
-<a href="https://medium.com/@robert.keller22"><img src="assets/images/medium.png" alt="Medium Icon"></a><br>
-<a href="mailto: robert.keller22@gmail.com"><img src="assets/images/email.png" alt="Email Icon"></a><br>
+<a href="https://www.linkedin.com/in/robert-keller-dev/"><img src="assets/images/linkedin.jpg" alt="LinkedIn Icon"></a>
+<br>
+<br>
+<a href="https://medium.com/@robert.keller22"><img src="assets/images/medium.png" alt="Medium Icon"></a>
+<br>
+<br>
+<a href="mailto: robert.keller22@gmail.com"><img src="assets/images/email.png" alt="Email Icon"></a>
+<br>
+<br>
 
 <br>
 <br>
