@@ -10,11 +10,11 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 
 <table>
    <tr>
-      <img style="margin-right: 80px"  src="assets/images/HTML5.png" alt="HTML5">
-      <img style="margin-right: 80px" src="assets/images/css.png" alt="CSS3">
-      <img style="margin-right: 80px" src="assets/images/js.png" alt="JS">
-      <img style="margin-right: 80px" src="assets/images/nodejs.png" alt="Node.js">
-      <img style="margin-right: 80px" src="assets/images/react.png" alt="React">
+      <td><img style="margin-right: 80px"  src="assets/images/HTML5.png" alt="HTML5"></td>
+      <td><img style="margin-right: 80px" src="assets/images/css.png" alt="CSS3"></td>
+      <td><img style="margin-right: 80px" src="assets/images/js.png" alt="JS"></td>
+      <td><img style="margin-right: 80px" src="assets/images/nodejs.png" alt="Node.js"></td>
+      <td><img style="margin-right: 80px" src="assets/images/react.png" alt="React"></td>
    </tr>
    </table>
    <table>
