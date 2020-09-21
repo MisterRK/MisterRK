@@ -8,7 +8,7 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 <br>
 ## 🧰 Languages and Tools I Build With
 
-<table border="none">
+<table style="border:none">
    <tr>
       <td><img style="margin-right: 80px"  src="assets/images/HTML5.png" alt="HTML5"></td>
       <td><img style="margin-right: 80px" src="assets/images/css.png" alt="CSS3"></td>
