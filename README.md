@@ -25,7 +25,7 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 ## 📣 Let's Connect
 
 <style type="text/css">
-   a {margin-right: 80px}
+   a {margin-right: 80px;}
 </style>
 
 <a href="https://www.linkedin.com/in/robert-keller-dev/"><img src="assets/images/linkedin.jpg" alt="LinkedIn Icon"></a>
