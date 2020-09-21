@@ -8,22 +8,22 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 <br>
 ## 🧰 Languages and Tools I Build With
 
-<table style="border:none">
+<table>
    <tr>
-      <td><img style="margin-right: 80px"  src="assets/images/HTML5.png" alt="HTML5"></td>
-      <td><img style="margin-right: 80px" src="assets/images/css.png" alt="CSS3"></td>
-      <td><img style="margin-right: 80px" src="assets/images/js.png" alt="JS"></td>
-      <td><img style="margin-right: 80px" src="assets/images/nodejs.png" alt="Node.js"></td>
-      <td><img style="margin-right: 80px" src="assets/images/react.png" alt="React"></td>
+      <td><img src="assets/images/HTML5.png" alt="HTML5"></td>
+      <td><img src="assets/images/css.png" alt="CSS3"></td>
+      <td><img  src="assets/images/js.png" alt="JS"></td>
+      <td><img src="assets/images/nodejs.png" alt="Node.js"></td>
+      <td><img src="assets/images/react.png" alt="React"></td>
    </tr>
    </table>
    <table>
       <tr>
-         <td><img style="margin-right: 80px" src="assets/images/redux.png" alt="Redux"></td>
-         <td><img style="margin-right: 80px" src="assets/images/ruby.png" alt="Ruby"></td>
-         <td><img style="margin-right: 80px" src="assets/images/rails.png" alt="Rails"></td>
-         <td><img style="margin-right: 80px" src="assets/images/github.png" alt="GitHub"></td>
-         <td><img style="margin-right: 80px" src="assets/images/git.png" alt="Git"></td>
+         <td><img src="assets/images/redux.png" alt="Redux"></td>
+         <td><img src="assets/images/ruby.png" alt="Ruby"></td>
+         <td><img src="assets/images/rails.png" alt="Rails"></td>
+         <td><img src="assets/images/github.png" alt="GitHub"></td>
+         <td><img src="assets/images/git.png" alt="Git"></td>
       </tr>
    <table>
 
