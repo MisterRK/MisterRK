@@ -48,7 +48,10 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 
 ## Blog Links
 
--[A Short Guide to Stack and Queues](https://medium.com/@robert.keller22/a-short-guide-to-stacks-queues-459f8df2081b) -[Doubly Linked Lists: Twice as Nice](https://medium.com/javascript-in-plain-english/twice-as-nice-doubly-linked-lists-c7421b9e4f16) -[Let's Talk Singly Linked Lists](https://medium.com/javascript-in-plain-english/lets-talk-singly-linked-lists-29fe52a93410) -[Writing my First Unit Tests](https://medium.com/@robert.keller22/my-first-unit-test-also-my-second-and-third-9615f428d1fe)
+-[A Short Guide to Stack and Queues](https://medium.com/@robert.keller22/a-short-guide-to-stacks-queues-459f8df2081b) 
+-[Doubly Linked Lists: Twice as Nice](https://medium.com/javascript-in-plain-english/twice-as-nice-doubly-linked-lists-c7421b9e4f16) 
+-[Let's Talk Singly Linked Lists](https://medium.com/javascript-in-plain-english/lets-talk-singly-linked-lists-29fe52a93410) 
+-[Writing my First Unit Tests](https://medium.com/@robert.keller22/my-first-unit-test-also-my-second-and-third-9615f428d1fe)
 
 <br>
 <br>
