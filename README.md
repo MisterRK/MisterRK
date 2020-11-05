@@ -13,7 +13,7 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 </a>
 <a href=""><img  src="assets/images/JavaScript-logo.png" alt="JS"></a>
 <a href=""><img height='64px' width='64px' src="./assets/images/nodejs-new-pantone-black.svg" alt="Node.js"></a>
-<a href=""><img  src="assets/images/react.png" alt="React"></a>
+<a href=""><img height='64px' src="assets/images/React-icon.svg" alt="React"></a>
 <a href=""><img height='64px' src="assets/images/css3.svg" alt="CSS3"></a>
 
 <a href=""><img height='64px' src="assets/images/redux.png" alt="Redux"></a>
@@ -26,7 +26,6 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 <br>
 
 ## 📣 Let's Connect
-
 
 <a href="https://www.linkedin.com/in/robert-keller-dev/"><img src="assets/images/linkedin.jpg" alt="LinkedIn Icon"></a>
 <br>
@@ -43,20 +42,20 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 
 ## 💻 Deployed Projects
 
-- Interactive Burger Building --
-[Burger Builder](https://react---burger-builder.web.app/)
-- Online Job Tracker with Chrome Extension --
-[JTME](https://jtme-8027c.web.app/)
+-  Interactive Burger Building --
+   [Burger Builder](https://react---burger-builder.web.app/)
+-  Online Job Tracker with Chrome Extension --
+   [JTME](https://jtme-8027c.web.app/)
 
 <br>
 <br>
 
 ## Blog Links
 
-- [A Short Guide to Stack and Queues](https://medium.com/@robert.keller22/a-short-guide-to-stacks-queues-459f8df2081b)
-- [Doubly Linked Lists: Twice as Nice](https://medium.com/javascript-in-plain-english/twice-as-nice-doubly-linked-lists-c7421b9e4f16)
-- [Let's Talk Singly Linked Lists](https://medium.com/javascript-in-plain-english/lets-talk-singly-linked-lists-29fe52a93410)
-- [Writing my First Unit Tests](https://medium.com/@robert.keller22/my-first-unit-test-also-my-second-and-third-9615f428d1fe)
+-  [A Short Guide to Stack and Queues](https://medium.com/@robert.keller22/a-short-guide-to-stacks-queues-459f8df2081b)
+-  [Doubly Linked Lists: Twice as Nice](https://medium.com/javascript-in-plain-english/twice-as-nice-doubly-linked-lists-c7421b9e4f16)
+-  [Let's Talk Singly Linked Lists](https://medium.com/javascript-in-plain-english/lets-talk-singly-linked-lists-29fe52a93410)
+-  [Writing my First Unit Tests](https://medium.com/@robert.keller22/my-first-unit-test-also-my-second-and-third-9615f428d1fe)
 
 <br>
 <br>
