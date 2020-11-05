@@ -8,16 +8,18 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 
 ## 🧰 Languages and Tools I Build With
 
-<a href=""><img src="assets/images/HTML5.png" alt="HTML5"></a>
-<a href=""><img  src="assets/images/js.png" alt="JS"></a>
-<a href=""><img src="assets/images/nodejs.png" alt="Node.js"></a>
-<a href=""><img src="assets/images/react.png" alt="React"></a>
-<a href=""><img src="assets/images/css.png" alt="CSS3"></a>
+<a href="http://www.w3.org/html/logo/">
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="63" height="64" alt="HTML5 Logo" title="HTML5 Powered">
+</a>
+<a href=""><img  src="assets/images/JavaScript-logo.png" alt="JS"></a>
+<a href=""><img height='64px' width='64px' src="./assets/images/nodejs-new-pantone-black.svg" alt="Node.js"></a>
+<a href=""><img  src="assets/images/react.png" alt="React"></a>
+<a href=""><img height='64px' src="assets/images/css3.svg" alt="CSS3"></a>
 
-<a href=""><img src="assets/images/redux.png" alt="Redux"></a>
-<a href=""><img src="assets/images/ruby.png" alt="Ruby"></a>
-<a href=""><img src="assets/images/rails.png" alt="Rails"></a>
-<a href=""><img src="assets/images/github.png" alt="GitHub"></a>
+<a href=""><img height='64px' src="assets/images/redux.png" alt="Redux"></a>
+<a href=""><img height='64px' src="assets/images/ruby.png" alt="Ruby"></a>
+<a href=""><img height='64px' src="assets/images/rails.png" alt="Rails"></a>
+<a href=""><img src="assets/images/GitHub-Mark-64px.png" alt="GitHub"></a>
 <a href=""><img src="assets/images/git.png" alt="Git"></a>
 
 <br>
@@ -41,7 +43,10 @@ Hi I'm Robert, a software engineer with a former life managing Michelin starred 
 
 ## 💻 Deployed Projects
 
+- Interactive Burger Building --
 [Burger Builder](https://react---burger-builder.web.app/)
+- Online Job Tracker with Chrome Extension --
+[JTME](https://jtme-8027c.web.app/)
 
 <br>
 <br>
