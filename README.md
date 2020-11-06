@@ -1,4 +1,4 @@
-# Welcome to My GitHub ![GitHub Logo](assets/images/github.png)
+# Welcome to My GitHub ![GitHub Logo](assets/images/GitHub-Mark-64px.png)
 
 ## About Me
 
